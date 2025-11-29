@@ -21,7 +21,7 @@ const app = express();
 const corsOptions = {
   origin: [
     'http://localhost:5173', // or whatever port you use locally
-    'https://school-frontend-drab.vercel.app'
+    'https://ritikschool.vercel.app'
   ],
   credentials: true
 };
